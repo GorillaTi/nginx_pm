@@ -1,8 +1,17 @@
-# nginx_pm
+# Nginx Proxy Manager - Container
 
 ## Credenciales por defecto
 
-```file
-Email: admin@example.com
-Password: changeme
+e-mail
+
+```shell-session
+admin@example.com
 ```
+
+Contraseña
+
+```shell-session
+changeme
+```
+
+> **Nota.-** Se debe de cambiar las credenciales por defecto pos seguridad.
