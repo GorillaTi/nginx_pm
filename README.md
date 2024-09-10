@@ -14,4 +14,4 @@ Contraseña
 changeme
 ```
 
-> **Nota.-** Se debe de cambiar las credenciales por defecto pos seguridad.
+> **Nota.-** Se debe de cambiar las credenciales por defecto por seguridad.
