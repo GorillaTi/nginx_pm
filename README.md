@@ -3,6 +3,6 @@
 ## Credenciales por defecto
 
 ```file
-Email: <admin@example.com>
+Email: admin@example.com
 Password: changeme
 ```
